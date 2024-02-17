@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dpuareu">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dpuareu.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
